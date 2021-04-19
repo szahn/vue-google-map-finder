@@ -1,0 +1,106 @@
+[
+    {
+        "id": "7fa628eb-6628-4dc3-8074-710a46522473",
+        "type": "FoodTruck",
+        "position": {
+            "lat": 33.507475,
+            "lng": -111.993059
+        },
+        "title": "Gourmet Burgers",
+        "neighborhood": "Arcadia",
+        "city": "Phoenix",
+        "state": "Arizona",
+        "description": "We serve gourmet burgers. Vegan options available."
+    },
+    {
+        "id": "68323b88-9b99-4942-a273-17c18c2bdbf0",
+        "type": "FoodTruck",
+        "position": {
+            "lat": 33.676003,
+            "lng": -111.928761
+        },
+        "title": "Ice Cream",
+        "city": "Scottsdale",
+        "neighborhood": "",
+        "state": "Arizona",
+        "description": "We serve ice cream, gelato, frozen yogurt."
+    },
+    {
+        "id": "8dca3158-8a96-47db-8417-f4dfbdb0c2c4",
+        "type": "FoodTruck",
+        "position": {
+            "lat": 33.554470,
+            "lng": -112.149717
+        },
+        "title": "Hot Dogs",
+        "city": "Scottsdale",
+        "neighborhood": "Grayhawk",
+        "state": "Arizona",
+        "description": "We are a hot dog food track that also serves vegan tofu dogs."
+    },
+    {
+        "id": "fa074931-2ec7-4a9c-bc5f-cbf518b7f64a",
+        "type": "FoodTruck",
+        "position": {
+            "lat": 33.407975,
+            "lng": -111.604876
+        },
+        "title": "Wild West Tacos",
+        "city": "Apache Junction",
+        "neighborhood": "Apache Junction",
+        "state": "Arizona",
+        "description": ""
+    },
+    {
+        "id": "3fb8479b-ff4b-454a-b7d6-ef7c0f7d8c3f",
+        "type": "FoodTruck",
+        "position": {
+            "lat": 33.394745,
+            "lng": -112.088149
+        },
+        "title": "BBQ Truck",
+        "city": "Phoenix",
+        "neighborhood": "South Mountain",
+        "state": "Arizona",
+        "description": ""
+    },
+    {
+        "id": "3fb8479b-ff4b-454a-b7d6-ef7c0f7d8c3g",
+        "type": "FoodTruck",
+        "position": {
+            "lat": 33.384327,
+            "lng": -112.076548
+        },
+        "title": "Burger Truck",
+        "city": "Phoenix",
+        "neighborhood": "South Mountain",
+        "state": "Arizona",
+        "description": ""
+    },
+    {
+        "id": "3fb8479b-jf4b-454a-b7d6-ef7c0f7d8c3g",
+        "type": "FoodTruck",
+        "position": {
+            "lat": 33.405289,
+            "lng": -112.042093
+        },
+        "title": "Vegan Truck",
+        "city": "Phoenix",
+        "neighborhood": "South Mountain",
+        "state": "Arizona",
+        "description": ""
+    },
+    {
+        "id": "a5aadaf8-30b4-46bf-b03e-4ffabcdc6a3d",
+        "type": "FoodTruck",
+        "position": {
+            "lat": 33.636942,
+            "lng": -112.287757
+        },
+        "title": "Keto Truck",
+        "city": "Peoria",
+        "neighborhood": "",
+        "state": "Arizona",
+        "description": "Mobile Keto kitchen."
+    }
+]
